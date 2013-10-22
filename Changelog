@@ -1,0 +1,17 @@
+Changelog:
+---------
+2006/05/18 version 1.0.0 by Oliver Riesen <oliver@riesen.org>
+- Initial release for Phorum 5.1; some code in the settings page based on the "File List
+Module" from the Phorum developer Maurice Makaay.
+
+2008/03/28 version 1.1.0 by Oliver Riesen <oliver@riesen.org>
+- Rewrite for Phorum 5.2.
+
+2008/04/01 version 1.1.1 by Oliver Riesen <oliver@riesen.org>
+- Multiple categories reduced to one category.
+
+2008/04/28 version 1.2.0 by Oliver Riesen <oliver@riesen.org>
+- Close topic when moving to specified forum.
+
+2008/05/06 version 1.2.1 by Oliver Riesen <oliver@riesen.org>
+- Bug fix close topic when moving to specified forum.

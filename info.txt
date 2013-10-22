@@ -1,0 +1,10 @@
+title: Close Topic
+desc:  Flags all new or moved topics in specified forums immediately as "closed".
+author: Oliver Riesen <oliver@riesen.org>
+url: http://www.phorum.org/phorum5/read.php?62,129158
+category: posting
+required_version: 5.2.0
+version: 1.2.1
+
+hook: before_post|mod_close_topic_before_post
+hook: move_thread|mod_close_topic_move_thread

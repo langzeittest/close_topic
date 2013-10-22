@@ -1,0 +1,46 @@
+Module: Close Topic
+Author: Oliver Riesen <oliver@riesen.org>
+
+Flags all new or moved topics in specified forums immediately as "closed".
+
+Tested on version 5.2.7
+
+
+License:
+-------
+
+Free to use, modify, or redistribute this code so long as I am given credit for
+the original development somewhere. This code comes with absolutly no warranty.
+
+
+Installation:
+------------
+
+1. Unpack the archive.
+
+2. Move the directory "close_topic" to the directory "mods" within your
+   Phorum installation. Don't change the directory name!
+
+3. Login as administrator in Phorum's administrative interface and go to the
+   "Modules" section.
+
+4. Enable the module "Close Topic".
+
+5. Go to the settings screen for the module to configure for what forums you
+   want to close immediately all new topics.
+
+
+Module settings:
+---------------
+
+== Configure where you want to automaticly close topics
+
+Check the forums where you want to automaticly close new topics.
+
+The default value is none forum checked.
+
+
+Language support:
+----------------
+
+This module doesn't contain any language text.
