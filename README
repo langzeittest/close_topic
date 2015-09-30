@@ -1,4 +1,5 @@
 Module: Close Topic
+Version: 1.2.1
 Author: Oliver Riesen <oliver@riesen.org>
 
 Flags all new or moved topics in specified forums immediately as "closed".
@@ -44,3 +45,10 @@ Language support:
 ----------------
 
 This module doesn't contain any language text.
+
+
+Contribution:
+------------
+
+Contribute on GitHub:
+https://github.com/langzeittest/close_topic
